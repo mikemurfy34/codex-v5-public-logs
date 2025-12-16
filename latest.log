@@ -1,11 +1,11 @@
-﻿**********************
+**********************
 Windows PowerShell transcript start
 Start time: 20250908105501
-Username: ANGELA\mike
-RunAs User: ANGELA\mike
-Configuration Name: 
-Machine: ANGELA (Microsoft Windows NT 10.0.26100.0)
-Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File .\scripts\ops\Daily-Seal.ps1
+Username: [REDACTED]
+RunAs User: [REDACTED]
+Configuration Name:
+Machine: [REDACTED]
+Host Application: C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe -ExecutionPolicy Bypass -File .\\scripts\\ops\\Daily-Seal.ps1
 Process ID: 4260
 PSVersion: 5.1.26100.5074
 PSEdition: Desktop
